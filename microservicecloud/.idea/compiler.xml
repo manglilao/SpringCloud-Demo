@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloudapi" />
+        <module name="microservicecloudconfig3344" />
+        <module name="microservicecloudconfigclient3355" />
+        <module name="microservicecloudconfigdeptclient8001" />
+        <module name="microservicecloudconfigeurekaclient7001" />
+        <module name="microservicecloudconsumerhystrixdashboard" />
+        <module name="microservicecloudprovider8081" />
+        <module name="microservicecloudprovider8082" />
+        <module name="microservicecloudprovider8083" />
+        <module name="microservicecloudproviderhystrix8001" />
+        <module name="microservicecloudzuulgetway9527" />
+        <module name="microserviceconsumer80" />
+        <module name="microserviceconsumerfeign" />
+        <module name="microspringcloudeureka7001" />
+        <module name="microspringcloudeureka7002" />
+        <module name="microspringcloudeureka7003" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicecloud" target="1.8" />
+      <module name="microservicecloudapi" target="1.8" />
+      <module name="microservicecloudconfig3344" target="1.8" />
+      <module name="microservicecloudconfigclient3355" target="1.8" />
+      <module name="microservicecloudconfigdeptclient8001" target="1.8" />
+      <module name="microservicecloudconfigeurekaclient7001" target="1.8" />
+      <module name="microservicecloudconsumerhystrixdashboard" target="1.8" />
+      <module name="microservicecloudprovider8081" target="1.8" />
+      <module name="microservicecloudprovider8082" target="1.8" />
+      <module name="microservicecloudprovider8083" target="1.8" />
+      <module name="microservicecloudproviderhystrix8001" target="1.8" />
+      <module name="microservicecloudzuulgetway9527" target="1.8" />
+      <module name="microserviceconsumer80" target="1.8" />
+      <module name="microserviceconsumerfeign" target="1.8" />
+      <module name="microspringcloudeureka7001" target="1.8" />
+      <module name="microspringcloudeureka7002" target="1.8" />
+      <module name="microspringcloudeureka7003" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
